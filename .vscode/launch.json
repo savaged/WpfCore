@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "coreclr",
+            "request": "launch",
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp3.0/WpfCore.exe"
+        }
+    ]
+}
